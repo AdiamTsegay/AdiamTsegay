@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b761176e41c823a056b1b0d344c2aa6a9167d2ce40047&rid=giphy.gif&ct=g"> 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **projects that make a difference**
 
