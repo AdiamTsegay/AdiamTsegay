@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects that make a difference**
 
-- 👨‍💻 All of my projects are available at [https://adiamdesta.com](https://adiamdesta.com)
+- 👨‍💻 Some of my projects are available at [https://adiamdesta.com](https://adiamdesta.com)
 
 - 💬 Ask me about **React**
 
